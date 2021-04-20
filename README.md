@@ -11,6 +11,9 @@ My name's Flor Pistán Esparza, I'm a FrontEnd Developer from Argentina 🌈
 - 😄 Pronouns: she/her ✨
 - ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books, learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
 
+My last proyect:
+- 👩🏻‍💻 [CursOn](https://github.com/RollingTeam/ProyectoCurson)
+
 This is my stack atm:
 - HTML5
 - CSS3
