@@ -9,7 +9,7 @@ My name's Flor Pistán Esparza, I'm a FrontEnd Developer from Argentina 🌈
 - 🤔 I’m looking for help with my JavaScript skills and my English
 - 📫 How to reach me: you can send me a dm on [Twitter](https://twitter.com/flopi_es) 🕊
 - 😄 Pronouns: she/her ✨
-- ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books, learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
+- ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books. I enjoy learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
 
 My last proyect:
 - 👩🏻‍💻 [CursOn](https://github.com/RollingTeam/ProyectoCurson)
