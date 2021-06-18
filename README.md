@@ -3,7 +3,7 @@
 My name's Flor Pistán Esparza, I'm a FrontEnd Developer from Argentina 🌈
 
 
-- 🔭 I’m currently working on my [Personal Blog](https://github.com/florpistan/blog-personal)
+- 🔭 I’m currently working on my []()
 - 🌱 I’m currently learning JavaScript on Platzi
 - 👯 I’m looking to collaborate on open source proyects so I can practice the new stuff I'm learning at the moment. So if you have a proyect and you're looking for a collaborator you can contact me [here](https://twitter.com/flopi_es) ☕💬
 - 🤔 I’m looking for help with my JavaScript skills and my English
