@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, my name's Flor Pistán Esparza 👋
 
-My name's Flor Pistán Esparza, I'm a FrontEnd Developer from Argentina 🌈
+[![Twitter Follow](https://img.shields.io/twitter/follow/flopi_es?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflopi_es&screen_name=flopi_es)
+
+## I'm a FrontEnd Developer from Argentina 🌈
 
 
 - 🔭 I’m currently working on my [Elvira Sastre Random Quotes](https://elvirasastre-quotes.vercel.app/)
@@ -15,13 +17,32 @@ My name's Flor Pistán Esparza, I'm a FrontEnd Developer from Argentina 🌈
 My last proyect:
 - 👩🏻‍💻 [CursOn](https://github.com/RollingTeam/ProyectoCurson)
 
-This is my stack atm:
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React JS
-- Node JS
-- Express JS
-- Mongo DB
-- Git and GitHub
+
+
+### Connect with me:
+
+[<img align="left" alt="jd_apprentice | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />][twitter]
+[<img align="left" alt="Jonathandyallo | LinkedIn" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="jd.apprentice | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+
+<br />
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
+<img align="left" alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
+<img align="left" alt="Git" width=30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>                           
+<img align="left" alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
+<img align="left" alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png"/>                                              <img align="left" alt="Js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>  
+<img align="left" alt="Windows" width="30px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/>
+<img align="left" alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+<img align="left" alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img align="left" alt="MongoDB" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img align="left" alt="NodeJS" width="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+
+[twitter]: https://twitter.com/flopi_es
+[instagram]: https://instagram.com/florpistan
+[linkedin]: https://linkedin.com/in/florpistan
+                                                                                                          
+                                                                                          
