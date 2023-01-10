@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/flopi_es?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflopi_es&screen_name=flopi_es)
 
-## I'm a Full Stack Developer from Argentina 🇦🇷⭐⭐⭐
+## I'm a Full Stack Developer from Argentina &#x1F1E6 &#x1F1F7⭐⭐⭐
 
 
 - 🔭 I’m currently working on my [Elvira Sastre Random Quotes](https://elvirasastre-quotes.vercel.app/)
