@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/flopi_es?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflopi_es&screen_name=flopi_es)
 
-## I'm a FrontEnd Developer from Argentina 🌈
+## I'm a Full Stack Developer from Argentina 🇦🇷⭐⭐⭐
 
 
 - 🔭 I’m currently working on my [Elvira Sastre Random Quotes](https://elvirasastre-quotes.vercel.app/)
-- 🌱 I’m currently learning JavaScript on Platzi
+- 🌱 I’m currently learning React Native ⚛
 - 👯 I’m looking to collaborate on open source proyects so I can practice the new stuff I'm learning at the moment. So if you have a proyect and you're looking for a collaborator you can contact me [here](https://twitter.com/flopi_es) ☕💬
-- 🤔 I’m looking for help with my JavaScript skills and my English
+- 🤔 I’m looking for help with my NodeJs technichal skills and my English
 - 📫 How to reach me: you can send me a dm on [Twitter](https://twitter.com/flopi_es) 🕊
 - 😄 Pronouns: she/her ✨
 - ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books. 
