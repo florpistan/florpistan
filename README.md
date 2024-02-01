@@ -15,7 +15,7 @@
 - :woman_cartwheeling: I enjoy learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
 
 My last proyect:
-- 👩🏻‍💻 [CursOn](https://github.com/RollingTeam/ProyectoCurson)
+- 👩🏻‍💻 [Online CV](https://florpistan-cv.vercell.app)
 
 
 
