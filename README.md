@@ -3,9 +3,7 @@
 ## I'm a Full Stack Developer from Argentina 💙⭐⭐⭐
 
 
-- 🔭 I’m currently working on my [Elvira Sastre Random Quotes](https://elvirasastre-quotes.vercel.app/)
 - 🌱 I’m currently learning React Native ⚛
-- 🤔 I’m looking for help with my NodeJs technichal skills and my English
 - 📫 How to reach me: you can send me a dm on [Twitter](https://linkedin.com/in/florpistan) 🕊
 - 😄 Pronouns: she/her ✨
 - ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books. 
