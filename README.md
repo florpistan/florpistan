@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on my [Elvira Sastre Random Quotes](https://elvirasastre-quotes.vercel.app/)
 - 🌱 I’m currently learning React Native ⚛
-- 👯 I’m looking to collaborate on open source proyects so I can practice the new stuff I'm learning at the moment. So if you have a proyect and you're looking for a collaborator you can contact me [here](https://twitter.com/flopi_es) ☕💬
 - 🤔 I’m looking for help with my NodeJs technichal skills and my English
-- 📫 How to reach me: you can send me a dm on [Twitter](https://twitter.com/flopi_es) 🕊
+- 📫 How to reach me: you can send me a dm on [Twitter](https://linkedin.com/in/florpistan) 🕊
 - 😄 Pronouns: she/her ✨
 - ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books. 
 - :woman_cartwheeling: I enjoy learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
