@@ -1,7 +1,5 @@
 ### Hi there, my name's Flor Pistán Esparza 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/flopi_es?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflopi_es&screen_name=flopi_es)
-
 ## I'm a Full Stack Developer from Argentina 💙⭐⭐⭐
 
 
@@ -21,9 +19,7 @@ My last proyect:
 
 ### Connect with me:
 
-[<img align="left" alt="jd_apprentice | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />][twitter]
 [<img align="left" alt="Jonathandyallo | LinkedIn" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="jd.apprentice | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 <br />
 
