@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning React Native ⚛
-- 📫 How to reach me: you can send me a dm on [Twitter](https://linkedin.com/in/florpistan) 🕊
+- 📫 How to reach me: you can send me a dm on [Linkedin](https://linkedin.com/in/florpistan) 🕊
 - 😄 Pronouns: she/her ✨
 - ⚡ Fun fact: I love sports (specially tennis and football), I'm a huge Roger Federer fan 🎾. I can't do anything without listening to music 🎶, I love reading books. 
 - :woman_cartwheeling: I enjoy learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
