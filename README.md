@@ -38,6 +38,7 @@ My last proyect:
 <img align="left" alt="nestjs" width="30px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
 <img align="left" alt="docker" width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
 <img align="left" alt="cypress" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/cypress-icon.svg">
+<img align="left" alt="google cloud" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
 
 [twitter]: https://twitter.com/flopi_es
 [instagram]: https://instagram.com/florpistan
