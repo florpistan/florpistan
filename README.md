@@ -10,7 +10,7 @@
 - :woman_cartwheeling: I enjoy learning new stuff (my interests go from history 📁 to geographics 🌎 and "did you know" facts)
 
 My last proyect:
-- 👩🏻‍💻 [Online CV](https://florpistan-cv.vercell.app)
+- 👩🏻‍💻 [Online CV](https://florpistan-cv.vercel.app)
 
 
 
