@@ -29,11 +29,15 @@ My last proyect:
 <img align="left" alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
 <img align="left" alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png"/>                                              <img align="left" alt="Js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>  
 <img align="left" alt="Windows" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
-<img align="left" alt="Windows" width="30px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/>
+<img align="left" alt="Windows" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 <img align="left" alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img align="left" alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img align="left" alt="MongoDB" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 <img align="left" alt="NodeJS" width="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img align="left" alt="nextjs" width="30px" src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg">
+<img align="left" alt="nestjs" width="30px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+<img align="left" alt="docker" width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+<img align="left" alt="cypress" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/cypress-icon.svg">
 
 [twitter]: https://twitter.com/flopi_es
 [instagram]: https://instagram.com/florpistan
